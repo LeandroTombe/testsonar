@@ -1,7 +1,7 @@
 # Calculator Python
 
 [![CI con SonarQube](https://github.com/LeandroTombe/testsonar/actions/workflows/ci.yml/badge.svg)](https://github.com/LeandroTombe/testsonar/actions/workflows/ci.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=niidea&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=niidea)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LeandroTombe_testsonar&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=LeandroTombe_testsonar)
 
 Calculadora simple en Python con análisis de calidad de código mediante SonarQube Cloud.
 
@@ -17,8 +17,8 @@ Para que el CI funcione correctamente, necesitas:
    - Valor: Tu token de SonarQube Cloud (puedes generarlo en https://sonarcloud.io/account/security/)
 
 2. **El proyecto ya está configurado con:**
-   - Organization: `86a1e37e097fa7ad581500a8c9f96c35b001062c`
-   - Project Key: `niidea`
+   - Organization: `leandrotombe`
+   - Project Key: `LeandroTombe_testsonar`
 
 ## Uso
 
